@@ -16,4 +16,4 @@ void loop() {
 }
 ```
 Aqui esta a imagem do codigo no Arduino IDE: 
-<img src="" alt="Imagem do codigo" style="width: 500px;">
+<img src="Screenshot 2025-10-16 085349.png" alt="Imagem do codigo" style="width: 500px;">
