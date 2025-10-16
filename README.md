@@ -15,5 +15,6 @@ void loop() {
   delay(500);                      
 }
 ```
-Aqui esta a imagem do codigo no Arduino IDE: 
+Aqui esta a imagem do codigo no Arduino IDE e logo embaixo uma imagem do projeto com a luz no momento em que piscou: 
+
 <img src="Screenshot 2025-10-16 085349.png" alt="Imagem do codigo" style="width: 500px;">
