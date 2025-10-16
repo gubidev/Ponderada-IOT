@@ -40,4 +40,4 @@ void loop() {
 }
 ```
 Também fiz esse projeto no protoboard físico está a imagem:
-<img src="IMG_2198.jpg" alt="Imagem da parte 2" style="width: 500px;">
+<img src="Screenshot 2025-10-16 134053.png" alt="Imagem da parte 2" style="width: 500px;">
