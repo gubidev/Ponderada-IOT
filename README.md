@@ -42,4 +42,5 @@ void loop() {
 }
 ```
 Também fiz esse projeto no protoboard físico está a imagem:
+
 <img src="Projeto 2.jpg" alt="Imagem da parte 2" style="width: 500px;">
