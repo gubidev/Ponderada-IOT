@@ -23,7 +23,7 @@ Aqui esta a imagem do codigo no Arduino IDE e logo embaixo uma imagem do projeto
 ### Parte 2
 A primeira etapa era fazer uma simulação no TinkerCad com uma montagem do pisca-pisca com Arduino Uno: 
 [Link Para o TinkerCad](https://www.tinkercad.com/things/3zBGBH4CGx5/editel?sharecode=ddXuFrDDaOcI5fOJxKuq4ZYj2Wlr_dqNsPmPuoCqTLI)
-
+<img src="Tremendous Waasa-Lahdi.png" alt="Imagem da parte 1" style="width: 500px;">
 O codigo utilizado foi:
 ```
 void setup() {
