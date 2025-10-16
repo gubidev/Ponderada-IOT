@@ -1,6 +1,6 @@
 # Ponderada IOT
 ### Parte 1 
-Nessa parte tivemos que fazer o led "built-in" do arduino, e fazer-lo piscar. Para isso utilizei o seguinte codigo:
+Nessa parte tivemos que fazer o led "built-in" do arduino piscar. Para isso utilizei o seguinte codigo:
 ``` 
 void setup() {
   // put your setup code here, to run once:
